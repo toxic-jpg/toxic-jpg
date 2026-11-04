@@ -52,4 +52,4 @@ public class Heart {
 
 ---
 
-> *"The best code is the code never written."* — Ponytail mode activated
+> *"The best code is the code never written."*
