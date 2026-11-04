@@ -49,7 +49,3 @@ public class Heart {
 
 [![GitHub](https://img.shields.io/badge/GitHub-toxic--jpg-181717?style=for-the-badge&logo=github)](https://github.com/toxic-jpg)
 [![Telegram](https://img.shields.io/badge/Telegram-@Puso-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Puso)
-
----
-
-> *"The best code is the code never written."*
